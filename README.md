@@ -77,15 +77,3 @@ Para uma visão completa dos códigos de resposta em cada endpoint, enquanto o s
 
 O swagger dela também está disponível no HEROKU pelo link:
 https://tester-global-cliente-api.herokuapp.com/swagger-ui.html#/
-
-Baixe a coleção do POSTMAN que possui os requests (métodos HTTP)  que exercitam essa API a partir do meu site:
-
-[viniciuspessoni.com/downloads]( https://www.viniciuspessoni.com/downloads)
-
-Me Segue =}
-
-😍 [YouTube]( https://www.youtube.com/c/pessonizando)
-
-💗 [Instagram](https://www.instagram.com/pessonizando)
-
-⭐ [Telegram](https://t.me/pessonizando)
